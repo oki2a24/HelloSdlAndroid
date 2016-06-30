@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloSDL</string>
+    <string name="lock_screen">LockScreen!</string>
+
+    <string name="stream_npr">http://sg.wbur.org/stream/live_mp3</string>
+    <string name="steam_dance">http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1141027</string>
+    <string name="stream_other">http://vprbbc.streamguys.net:80/vprbbc24.mp3</string>
+</resources>
