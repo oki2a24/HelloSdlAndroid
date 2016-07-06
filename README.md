@@ -9,6 +9,7 @@ Small example Android application to get you up and running with SDL.
 1. [Install Android Studio](https://developer.android.com/studio/install.html)
 2. Clone this repository
 3. Import the project into android studio by `File -> New -> Import Project`
+4. Set-up SDL Core and SDL HMI. [SDL Core Getting Started](https://github.com/smartdevicelink/sdl_core)
 
 ## Additional Resources
 
