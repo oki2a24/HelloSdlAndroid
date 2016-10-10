@@ -1,24 +1,15 @@
 ECLIPSE ANDROID PROJECT IMPORT SUMMARY
 ======================================
 
-Ignored Files:
---------------
-The following files were *not* copied into the new Gradle project; you
-should evaluate whether these are still needed in your project and if
-so manually move them:
-
-* .DS_Store
-
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
 * AndroidManifest.xml => sdl_android_lib/src/main/AndroidManifest.xml
-* res/ => sdl_android_lib/src/main/res
+* res/ => sdl_android_lib/src/main/res/
 * src/ => sdl_android_lib/src/main/java/
-* src/.DS_Store => sdl_android_lib/src/main/resources/.DS_Store
-* src/com/.DS_Store => sdl_android_lib/src/main/resources/com/.DS_Store
+* src/com/smartdevicelink/protocol/SdlPacket.aidl => sdl_android_lib/src/main/aidl/com/smartdevicelink/protocol/SdlPacket.aidl
 
 Next Steps:
 -----------

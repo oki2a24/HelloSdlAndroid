@@ -1,0 +1,1 @@
+int drawable sdl_128 0x7f020000
